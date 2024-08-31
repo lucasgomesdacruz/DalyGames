@@ -36,12 +36,12 @@ Endpoint: GET /next-api/?api=games</br>
 Finalidade: Buscar uma lista de jogos para preencher a grade de jogos na página inicial.</br>
 Controle de Cache: Similar à API de jogo do dia, os dados são revalidados a cada 320 segundos.</br></br>
 
-### API de Detalhes do Jogo
+###  🕹️ API de Detalhes do Jogo
 Endpoint: GET /next-api/?api=game&id=[id]</br>
 Finalidade: Buscar informações detalhadas sobre um jogo específico com base no seu ID.</br>
 Controle de Cache: Os dados são revalidados a cada 60 segundos para fornecer conteúdo atualizado.</br></br>
 
-### Tecnologias Utilizadas
+###  🕹️ Tecnologias Utilizadas
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 Next.js: Um framework React para construir aplicações web com renderização do lado do servidor (SSR) e geração estática.</br>
