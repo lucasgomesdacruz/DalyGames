@@ -22,6 +22,8 @@ Todos os dados dos jogos são buscados do endpoint GET /next-api/?api=games.</br
 Mostra informações detalhadas sobre um jogo selecionado.</br>
 Recomenda outro jogo ao final da página.</br>
 Os dados são buscados com base no ID do jogo a partir do endpoint GET /next-api/?api=game&id=[id].</br></br>
+![image](https://github.com/user-attachments/assets/2c3911f0-f662-44d1-ac13-ca3b8ddc74c5)
+
 
 ### Consumo de APIs
 API de Jogo do Dia
@@ -40,7 +42,7 @@ Finalidade: Buscar informações detalhadas sobre um jogo específico com base n
 Controle de Cache: Os dados são revalidados a cada 60 segundos para fornecer conteúdo atualizado.</br></br>
 
 ### Tecnologias Utilizadas
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![TailwindCSS] ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) (https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 Next.js: Um framework React para construir aplicações web com renderização do lado do servidor (SSR) e geração estática.</br>
 Tailwind CSS: Um framework CSS utilitário que permite a construção rápida de interfaces modernas e responsivas.</br>
